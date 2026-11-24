@@ -87,7 +87,7 @@ def predict_plan(bundle, base, planned, margin):
 
     clf_in = dict(base)
     clf_in["plates_cooked"] = planned
-    clf_in["cook_ratio"] = planned / base["students_registered"]
+    clf_in["cook_ratio"] = planned / max(1, base["students_registered"])
     clf_row = pd.DataFrame([clf_in])[bundle["clf_features"]]
     flagged = int(bundle["classifier"].predict(clf_row)[0]) == 1
 
@@ -100,7 +100,7 @@ def predict_plan(bundle, base, planned, margin):
 
 
 def plan_status(leftover, planned, limit, flagged):
-    pct = leftover / planned
+    pct = leftover / max(1, planned)
     if pct > limit:
         return "High waste"
     if leftover < 0:
@@ -272,15 +272,20 @@ with tab_whatif:
         )
 
         reg_n = base["students_registered"]
-        plans = sorted({int(reg_n * f) for f in (0.7, 0.8, 0.9, 1.0, 1.05, 1.1, 1.2)}
-                       | {plan, int(round(reg * (1 + margin / 100)))})
+        plans = sorted({
+    max(1, int(reg_n * f))
+    for f in (0.7, 0.8, 0.9, 1.0, 1.05, 1.1, 1.2)
+} | {
+    max(1, plan),
+    max(1, int(round(reg * (1 + margin / 100))))
+})
         rows = []
         for p in plans:
             r = predict_plan(bundle, base, p, margin)
             rows.append({
                 "Plates cooked": p,
                 "Expected leftover": round(r["leftover"]),
-                "Leftover %": f"{r['leftover'] / p:.0%}",
+                "Leftover %": f"{r['leftover'] / max(1, p):.0%}",
                 "Status": plan_status(r["leftover"], p, waste_limit, r["flagged"]),
             })
         table = pd.DataFrame(rows)
