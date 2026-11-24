@@ -1,0 +1,181 @@
+date,day_of_week,meal,menu_main,exam_week,holiday_or_event,rain,temperature_c,students_registered,plates_cooked,plates_eaten,leftover_kg,data_source,high_waste
+2026-09-01,Tuesday,Breakfast,Poha,0,0,1,32.76,194,189,170.0,3.47,simulated,0
+2026-09-01,Tuesday,Lunch,Chole,0,0,0,32.11,235,227,193.0,4.7,simulated,1
+2026-09-01,Tuesday,Dinner,Pav Bhaji,0,0,1,28.8,191,177,175.0,0.38,simulated,0
+2026-09-02,Wednesday,Breakfast,Poha,0,0,0,30.46,218,207,190.0,3.36,simulated,0
+2026-09-02,Wednesday,Lunch,Dal Rice,0,0,0,33.52,212,198,166.0,5.55,simulated,1
+2026-09-02,Wednesday,Dinner,Pav Bhaji,0,0,1,31.17,234,225,190.0,5.01,simulated,1
+2026-09-03,Thursday,Breakfast,Paratha,0,0,0,29.27,236,224,205.0,3.47,simulated,0
+2026-09-03,Thursday,Lunch,Chole,0,0,0,34.98,211,197,178.0,3.44,simulated,0
+2026-09-03,Thursday,Dinner,Khichdi,0,0,0,,222,207,174.0,5.04,simulated,1
+2026-09-04,Friday,Breakfast,Upma,1,0,0,30.99,245,220,195.0,4.57,simulated,0
+2026-09-04,Friday,Lunch,Dal Rice,0,0,1,26.35,203,183,177.0,0.94,simulated,0
+2026-09-04,Friday,Dinner,Veg Biryani,0,0,0,30.79,215,199,172.0,4.6,simulated,0
+2026-09-05,Saturday,Breakfast,Paratha,0,0,0,25.01,206,197,163.0,6.72,simulated,1
+2026-09-05,Saturday,Lunch,Dal Rice,0,0,0,28.18,185,179,152.0,3.68,simulated,0
+2026-09-05,Saturday,Dinner,Pav Bhaji,0,0,0,23.22,181,173,148.0,4.25,simulated,0
+2026-09-06,Sunday,Breakfast,Poha,0,0,0,29.72,235,182,156.0,3.42,simulated,0
+2026-09-06,Sunday,Lunch,Chole,0,0,0,25.29,250,191,176.0,1.83,simulated,0
+2026-09-06,Sunday,Dinner,Veg Biryani,1,0,1,32.35,199,144,140.0,0.66,simulated,0
+2026-09-07,Monday,Breakfast,Upma,0,0,0,27.34,240,215,214.0,0.19,simulated,0
+2026-09-07,Monday,Lunch,Paneer Curry,0,0,0,27.05,188,179,164.0,2.72,simulated,0
+2026-09-07,Monday,Dinner,Roti Sabzi,0,1,0,25.14,190,136,131.0,0.92,simulated,0
+2026-09-08,Tuesday,Breakfast,Upma,0,1,0,28.37,244,183,145.0,4.7,simulated,1
+2026-09-08,Tuesday,Lunch,Rajma,0,1,1,35.32,240,180,155.0,3.63,simulated,0
+2026-09-08,Tuesday,Dinner,Roti Sabzi,0,0,0,30.72,232,213,211.0,0.28,simulated,0
+2026-09-09,Wednesday,Breakfast,Idli,0,0,0,27.47,206,200,160.0,5.79,simulated,1
+2026-09-09,Wednesday,Lunch,Dal Rice,0,1,0,28.35,246,174,146.0,4.88,simulated,1
+2026-09-09,Wednesday,Dinner,Khichdi,0,0,0,24.12,209,201,,3.58,simulated,0
+2026-09-10,Thursday,Breakfast,Upma,0,0,1,,249,234,215.0,3.73,simulated,0
+2026-09-10,Thursday,Lunch,Chole,0,1,0,29.97,190,132,113.0,2.92,simulated,0
+2026-09-10,Thursday,Dinner,Veg Biryani,1,0,1,27.85,210,191,148.0,5.54,simulated,1
+2026-09-11,Friday,Breakfast,Idli,1,0,0,28.35,234,214,188.0,3.98,simulated,0
+2026-09-11,Friday,Lunch,Paneer Curry,0,0,0,21.97,199,182,157.0,4.49,simulated,0
+2026-09-11,Friday,Dinner,Khichdi,1,0,0,27.53,205,187,155.0,4.21,simulated,0
+2026-09-12,Saturday,Breakfast,Poha,1,0,0,28.46,212,178,150.0,3.75,simulated,0
+2026-09-12,Saturday,Lunch,Paneer Curry,0,0,0,29.62,238,223,,1.69,simulated,0
+2026-09-12,Saturday,Dinner,Roti Sabzi,0,0,0,37.37,225,210,170.0,6.0,simulated,1
+2026-09-13,Sunday,Breakfast,Paratha,0,0,1,30.05,208,155,153.0,0.38,simulated,0
+2026-09-13,Sunday,Lunch,Rajma,1,0,1,29.21,223,156,144.0,1.93,simulated,0
+2026-09-13,Sunday,Dinner,Veg Biryani,1,0,0,29.71,197,137,125.0,1.84,simulated,0
+2026-09-14,Monday,Breakfast,Upma,0,0,0,27.69,210,200,167.0,6.46,simulated,1
+2026-09-14,Monday,Lunch,Rajma,1,0,0,30.76,248,222,207.0,2.44,simulated,0
+2026-09-14,Monday,Dinner,Roti Sabzi,0,0,1,24.29,222,215,170.0,7.61,simulated,1
+2026-09-15,Tuesday,Breakfast,Poha,0,0,0,22.71,231,226,205.0,3.52,simulated,0
+2026-09-15,Tuesday,Lunch,Chole,0,0,1,29.13,231,208,197.0,1.47,simulated,0
+2026-09-15,Tuesday,Dinner,Pav Bhaji,0,0,0,30.22,231,223,192.0,5.21,simulated,1
+2026-09-16,Wednesday,Breakfast,Idli,1,0,0,34.9,214,187,177.0,1.74,simulated,0
+2026-09-16,Wednesday,Lunch,Paneer Curry,0,0,1,30.08,236,217,182.0,4.61,simulated,1
+2026-09-16,Wednesday,Dinner,Roti Sabzi,1,0,0,34.93,192,177,159.0,2.85,simulated,0
+2026-09-17,Thursday,Breakfast,Poha,0,1,1,32.37,210,156,138.0,2.34,simulated,0
+2026-09-17,Thursday,Lunch,Rajma,0,0,0,34.24,231,213,191.0,3.42,simulated,0
+2026-09-17,Thursday,Dinner,Pav Bhaji,0,1,1,23.35,207,155,126.0,5.42,simulated,1
+2026-09-18,Friday,Breakfast,Poha,0,1,0,29.55,224,168,130.0,5.29,simulated,1
+2026-09-18,Friday,Lunch,Chole,0,0,0,27.43,200,180,149.0,3.85,simulated,0
+2026-09-18,Friday,Dinner,Khichdi,0,0,0,19.67,197,190,179.0,2.0,simulated,0
+2026-09-19,Saturday,Breakfast,Poha,0,0,0,25.92,188,176,164.0,2.04,simulated,0
+2026-09-19,Saturday,Lunch,Paneer Curry,1,0,1,25.45,181,163,156.0,1.18,simulated,0
+2026-09-19,Saturday,Dinner,Roti Sabzi,0,0,0,28.48,212,192,161.0,4.18,simulated,0
+2026-09-20,Sunday,Breakfast,Idli,1,0,1,28.24,241,168,168.0,0.0,simulated,0
+2026-09-20,Sunday,Lunch,Dal Rice,0,0,0,33.46,191,148,129.0,3.0,simulated,0
+2026-09-20,Sunday,Dinner,Veg Biryani,0,0,0,33.3,223,175,158.0,2.6,simulated,0
+2026-09-21,Monday,Breakfast,Poha,0,0,0,24.53,245,228,203.0,3.45,simulated,0
+2026-09-21,Monday,Lunch,Chole,0,0,1,27.86,221,204,195.0,1.48,simulated,0
+2026-09-21,Monday,Dinner,Roti Sabzi,0,0,0,29.89,237,230,215.0,2.4,simulated,0
+2026-09-22,Tuesday,Breakfast,Upma,0,0,0,,207,187,157.0,5.62,simulated,1
+2026-09-22,Tuesday,Lunch,Paneer Curry,0,0,0,27.77,231,222,173.0,9.12,simulated,1
+2026-09-22,Tuesday,Dinner,Khichdi,1,0,0,26.12,227,198,,0.6,simulated,0
+2026-09-23,Wednesday,Breakfast,Upma,0,0,0,22.76,233,222,174.0,6.56,simulated,1
+2026-09-23,Wednesday,Lunch,Rajma,0,0,0,32.59,245,231,218.0,2.59,simulated,0
+2026-09-23,Wednesday,Dinner,Pav Bhaji,0,0,0,34.82,239,223,198.0,3.3,simulated,0
+2026-09-24,Thursday,Breakfast,Upma,0,1,0,22.74,193,140,126.0,2.23,simulated,0
+2026-09-24,Thursday,Lunch,Chole,0,0,1,29.99,219,208,192.0,1.99,simulated,0
+2026-09-24,Thursday,Dinner,Veg Biryani,0,0,0,30.54,203,195,181.0,2.25,simulated,0
+2026-09-25,Friday,Breakfast,Upma,1,0,1,24.02,221,196,159.0,5.62,simulated,1
+2026-09-25,Friday,Lunch,Dal Rice,1,0,0,32.6,202,170,170.0,0.0,simulated,0
+2026-09-25,Friday,Dinner,Roti Sabzi,0,0,0,30.05,192,182,175.0,1.19,simulated,0
+2026-09-26,Saturday,Breakfast,Paratha,0,0,1,19.36,200,193,180.0,1.68,simulated,0
+2026-09-26,Saturday,Lunch,Rajma,0,0,0,29.94,209,204,166.0,6.79,simulated,1
+2026-09-26,Saturday,Dinner,Pav Bhaji,0,0,0,23.88,216,203,198.0,0.79,simulated,0
+2026-09-27,Sunday,Breakfast,Idli,1,0,1,34.1,195,145,136.0,1.67,simulated,0
+2026-09-27,Sunday,Lunch,Chole,0,0,0,24.86,246,195,179.0,3.03,simulated,0
+2026-09-27,Sunday,Dinner,Roti Sabzi,0,0,0,26.54,187,150,115.0,5.64,simulated,1
+2026-09-28,Monday,Breakfast,Idli,0,0,0,27.35,223,204,200.0,0.59,simulated,0
+2026-09-28,Monday,Lunch,Paneer Curry,1,0,0,27.76,188,172,138.0,4.31,simulated,0
+2026-09-28,Monday,Dinner,Veg Biryani,0,0,1,37.21,225,210,173.0,6.14,simulated,1
+2026-09-29,Tuesday,Breakfast,Paratha,1,0,0,29.66,215,190,156.0,5.07,simulated,1
+2026-09-29,Tuesday,Lunch,Chole,0,0,0,25.52,248,229,203.0,5.12,simulated,1
+2026-09-29,Tuesday,Dinner,Khichdi,0,0,0,28.67,207,191,187.0,0.65,simulated,0
+2026-09-30,Wednesday,Breakfast,Poha,0,0,0,26.14,240,222,185.0,7.03,simulated,1
+2026-09-30,Wednesday,Lunch,Paneer Curry,0,0,1,28.33,225,211,207.0,0.7,simulated,0
+2026-09-30,Wednesday,Dinner,Roti Sabzi,1,1,1,27.08,192,123,117.0,1.18,simulated,0
+2026-10-01,Thursday,Breakfast,Poha,0,0,0,19.99,232,208,183.0,3.13,simulated,0
+2026-10-01,Thursday,Lunch,Dal Rice,0,0,0,28.02,240,223,181.0,7.39,simulated,1
+2026-10-01,Thursday,Dinner,Khichdi,0,0,0,31.59,190,172,170.0,0.24,simulated,0
+2026-10-02,Friday,Breakfast,Paratha,0,0,0,31.74,219,211,173.0,5.54,simulated,1
+2026-10-02,Friday,Lunch,Paneer Curry,0,0,0,34.84,232,227,175.0,8.16,simulated,1
+2026-10-02,Friday,Dinner,Pav Bhaji,0,0,0,28.25,181,162,141.0,2.57,simulated,0
+2026-10-03,Saturday,Breakfast,Idli,0,0,0,33.75,196,190,146.0,8.28,simulated,1
+2026-10-03,Saturday,Lunch,Paneer Curry,0,0,1,25.43,200,195,165.0,5.05,simulated,1
+2026-10-03,Saturday,Dinner,Pav Bhaji,1,0,1,32.42,218,194,160.0,5.21,simulated,1
+2026-10-04,Sunday,Breakfast,Poha,0,0,0,,207,156,150.0,1.06,simulated,0
+2026-10-04,Sunday,Lunch,Dal Rice,0,0,1,34.4,196,147,141.0,0.8,simulated,0
+2026-10-04,Sunday,Dinner,Pav Bhaji,0,1,0,28.68,219,125,,4.6,simulated,0
+2026-10-05,Monday,Breakfast,Poha,1,0,0,28.4,231,206,173.0,5.71,simulated,1
+2026-10-05,Monday,Lunch,Rajma,1,0,0,33.24,240,208,193.0,2.46,simulated,0
+2026-10-05,Monday,Dinner,Pav Bhaji,0,0,1,33.4,199,195,163.0,5.16,simulated,1
+2026-10-06,Tuesday,Breakfast,Poha,0,0,0,26.98,246,239,200.0,6.81,simulated,1
+2026-10-06,Tuesday,Lunch,Rajma,0,1,0,34.75,245,184,148.0,5.67,simulated,1
+2026-10-06,Tuesday,Dinner,Roti Sabzi,0,0,0,28.53,186,178,164.0,2.32,simulated,0
+2026-10-07,Wednesday,Breakfast,Poha,0,1,1,25.42,215,151,145.0,0.73,simulated,0
+2026-10-07,Wednesday,Lunch,Paneer Curry,1,0,1,28.63,224,194,179.0,2.5,simulated,0
+2026-10-07,Wednesday,Dinner,Khichdi,0,0,1,27.04,184,170,149.0,2.74,simulated,0
+2026-10-08,Thursday,Breakfast,Poha,0,0,0,31.67,231,209,203.0,1.14,simulated,0
+2026-10-08,Thursday,Lunch,Paneer Curry,0,0,0,27.37,184,168,138.0,4.76,simulated,1
+2026-10-08,Thursday,Dinner,Veg Biryani,1,0,0,21.17,196,170,162.0,1.52,simulated,0
+2026-10-09,Friday,Breakfast,Poha,1,1,1,24.31,221,143,126.0,2.79,simulated,0
+2026-10-09,Friday,Lunch,Dal Rice,0,0,0,26.77,216,198,167.0,5.83,simulated,1
+2026-10-09,Friday,Dinner,Veg Biryani,0,0,0,22.86,239,230,210.0,2.73,simulated,0
+2026-10-10,Saturday,Breakfast,Upma,1,0,1,23.89,207,188,151.0,5.66,simulated,1
+2026-10-10,Saturday,Lunch,Rajma,0,0,1,33.63,220,203,184.0,2.66,simulated,0
+2026-10-10,Saturday,Dinner,Pav Bhaji,0,0,1,29.48,180,169,149.0,3.25,simulated,0
+2026-10-11,Sunday,Breakfast,Paratha,0,0,0,29.02,192,149,145.0,0.53,simulated,0
+2026-10-11,Sunday,Lunch,Dal Rice,0,0,0,32.76,206,166,137.0,4.89,simulated,1
+2026-10-11,Sunday,Dinner,Pav Bhaji,0,0,0,30.34,239,191,173.0,2.84,simulated,0
+2026-10-12,Monday,Breakfast,Upma,0,1,0,26.15,246,183,162.0,3.78,simulated,0
+2026-10-12,Monday,Lunch,Chole,0,0,1,24.99,200,179,179.0,0.0,simulated,0
+2026-10-12,Monday,Dinner,Roti Sabzi,0,0,0,27.87,235,218,213.0,0.73,simulated,0
+2026-10-13,Tuesday,Breakfast,Upma,0,0,0,23.33,185,180,148.0,4.29,simulated,0
+2026-10-13,Tuesday,Lunch,Rajma,0,0,0,23.38,200,192,184.0,1.3,simulated,0
+2026-10-13,Tuesday,Dinner,Roti Sabzi,0,0,1,36.18,232,216,196.0,3.55,simulated,0
+2026-10-14,Wednesday,Breakfast,Upma,0,1,0,28.76,208,149,132.0,2.21,simulated,0
+2026-10-14,Wednesday,Lunch,Dal Rice,0,0,0,32.02,201,185,156.0,5.29,simulated,1
+2026-10-14,Wednesday,Dinner,Veg Biryani,1,0,0,29.21,241,206,181.0,4.35,simulated,0
+2026-10-15,Thursday,Breakfast,Paratha,1,0,0,20.57,234,209,174.0,5.95,simulated,1
+2026-10-15,Thursday,Lunch,Dal Rice,0,1,0,27.0,218,156,151.0,0.84,simulated,0
+2026-10-15,Thursday,Dinner,Roti Sabzi,0,1,1,25.18,240,174,159.0,2.2,simulated,0
+2026-10-16,Friday,Breakfast,Paratha,0,1,1,25.18,246,182,167.0,2.72,simulated,0
+2026-10-16,Friday,Lunch,Paneer Curry,0,0,0,29.6,224,206,190.0,2.44,simulated,0
+2026-10-16,Friday,Dinner,Khichdi,0,0,1,26.42,205,189,181.0,1.5,simulated,0
+2026-10-17,Saturday,Breakfast,Paratha,0,0,0,28.08,211,192,162.0,4.61,simulated,1
+2026-10-17,Saturday,Lunch,Dal Rice,0,1,1,29.98,246,183,150.0,6.3,simulated,1
+2026-10-17,Saturday,Dinner,Veg Biryani,0,0,1,31.61,191,180,159.0,3.67,simulated,0
+2026-10-18,Sunday,Breakfast,Poha,0,1,1,28.73,187,108,103.0,0.73,simulated,0
+2026-10-18,Sunday,Lunch,Paneer Curry,0,0,0,31.08,234,186,172.0,2.6,simulated,0
+2026-10-18,Sunday,Dinner,Veg Biryani,0,0,1,27.91,191,154,122.0,6.09,simulated,1
+2026-10-19,Monday,Breakfast,Poha,0,0,0,25.05,216,193,178.0,2.73,simulated,0
+2026-10-19,Monday,Lunch,Dal Rice,0,0,1,28.61,181,175,161.0,2.28,simulated,0
+2026-10-19,Monday,Dinner,Veg Biryani,1,0,0,34.15,221,200,174.0,4.68,simulated,1
+2026-10-20,Tuesday,Breakfast,Paratha,0,0,0,26.83,226,204,171.0,4.43,simulated,0
+2026-10-20,Tuesday,Lunch,Dal Rice,0,0,0,32.85,240,229,198.0,4.69,simulated,1
+2026-10-20,Tuesday,Dinner,Khichdi,1,1,1,23.33,223,151,127.0,4.29,simulated,0
+2026-10-21,Wednesday,Breakfast,Poha,0,0,1,36.21,212,190,180.0,1.59,simulated,0
+2026-10-21,Wednesday,Lunch,Chole,0,0,1,22.6,204,189,161.0,4.53,simulated,0
+2026-10-21,Wednesday,Dinner,Khichdi,0,0,0,31.53,205,187,185.0,0.34,simulated,0
+2026-10-22,Thursday,Breakfast,Paratha,0,0,0,33.03,239,215,187.0,4.67,simulated,1
+2026-10-22,Thursday,Lunch,Dal Rice,0,0,0,24.77,209,194,161.0,4.32,simulated,0
+2026-10-22,Thursday,Dinner,Veg Biryani,1,0,0,25.48,217,188,174.0,1.91,simulated,0
+2026-10-23,Friday,Breakfast,Poha,1,1,0,23.49,183,124,100.0,4.52,simulated,0
+2026-10-23,Friday,Lunch,Dal Rice,0,0,0,32.13,211,196,169.0,5.29,simulated,1
+2026-10-23,Friday,Dinner,Veg Biryani,0,0,0,24.51,203,190,185.0,0.75,simulated,0
+2026-10-24,Saturday,Breakfast,Poha,0,0,0,31.28,195,176,174.0,0.33,simulated,0
+2026-10-24,Saturday,Lunch,Rajma,0,0,0,29.27,206,201,168.0,4.83,simulated,1
+2026-10-24,Saturday,Dinner,Roti Sabzi,0,0,0,30.21,204,188,164.0,3.61,simulated,0
+2026-10-25,Sunday,Breakfast,Poha,0,0,1,29.39,241,188,175.0,1.83,simulated,0
+2026-10-25,Sunday,Lunch,Dal Rice,1,1,0,31.37,250,133,111.0,4.27,simulated,0
+2026-10-25,Sunday,Dinner,Roti Sabzi,0,0,0,35.48,244,182,177.0,0.94,simulated,0
+2026-10-26,Monday,Breakfast,Upma,0,0,0,30.0,246,239,199.0,6.61,simulated,1
+2026-10-26,Monday,Lunch,Chole,0,0,1,20.48,195,190,178.0,2.26,simulated,0
+2026-10-26,Monday,Dinner,Pav Bhaji,0,0,1,20.66,207,194,175.0,3.77,simulated,0
+2026-10-27,Tuesday,Breakfast,Poha,0,0,0,27.61,189,182,168.0,2.0,simulated,0
+2026-10-27,Tuesday,Lunch,Paneer Curry,0,0,0,30.5,215,205,166.0,6.77,simulated,1
+2026-10-27,Tuesday,Dinner,Roti Sabzi,0,0,0,32.87,248,227,191.0,4.86,simulated,1
+2026-10-28,Wednesday,Breakfast,Paratha,0,0,1,30.08,195,191,148.0,7.4,simulated,1
+2026-10-28,Wednesday,Lunch,Dal Rice,1,0,0,30.71,205,182,178.0,0.79,simulated,0
+2026-10-28,Wednesday,Dinner,Khichdi,0,0,0,28.56,207,202,185.0,2.2,simulated,0
+2026-10-29,Thursday,Breakfast,Paratha,0,0,0,27.5,184,173,149.0,3.73,simulated,0
+2026-10-29,Thursday,Lunch,Paneer Curry,0,1,0,27.48,216,162,126.0,6.82,simulated,1
+2026-10-29,Thursday,Dinner,Pav Bhaji,0,0,1,30.62,205,185,181.0,0.65,simulated,0
+2026-10-30,Friday,Breakfast,Upma,0,0,1,33.9,234,218,190.0,4.17,simulated,0
+2026-10-30,Friday,Lunch,Paneer Curry,0,0,0,30.35,231,225,197.0,3.44,simulated,0
+2026-10-30,Friday,Dinner,Roti Sabzi,0,0,1,31.41,207,202,190.0,1.67,simulated,0

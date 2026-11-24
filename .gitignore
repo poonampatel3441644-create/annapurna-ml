@@ -1,0 +1,28 @@
+
+# Python virtual environments
+.venv/
+.venv_backup/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+~*
+.DS_Store
+Thumbs.db
+
+# Model artifacts: exclude by default
+*.joblib
+*.pkl
+*.pickle
+*.sav
+*.model
+*.onnx
+
+# Include the Annapurna model required by the app
+!models/annapurna_models.joblib
+!notebooks/annapurna_models.joblib
