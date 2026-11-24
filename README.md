@@ -125,3 +125,8 @@ annapurna-ml/
 
 Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, SciPy, Streamlit, Jupyter.
 
+
+## 🚀 Live Demo
+
+**Try Annapurna 2.0 here:**  
+[Open Annapurna 2.0 – Smart Food Intelligence System](https://annapurna-ml-mlkrqgdhxawvh8jphgo3wj.streamlit.app/)
